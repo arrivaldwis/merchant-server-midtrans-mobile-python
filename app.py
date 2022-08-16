@@ -32,4 +32,4 @@ def chargeAPI(body):
 
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=config['app_port'])
+    app.run(host='0.0.0.0')
