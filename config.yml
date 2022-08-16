@@ -1,0 +1,6 @@
+sandbox_server_key: SB-Mid-server-VcgoX498b6S5TAfHc22zHgsu
+production_server_key: Mid-server-T9mFJdoXSZUIQ2PTZPheW0SX
+sandbox_url: https://app.sandbox.midtrans.com/snap/v1/transactions
+production_url: https://app.midtrans.com/snap/v1/transactions
+is_production: false
+app_port: 5000
